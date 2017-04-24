@@ -1,6 +1,6 @@
 [**Kidsday**] (jtheb.github.io/Kidsday) is a social project in the German city Karlsruhe, which provides kids with a free day full of games and a tasty meal.
 I'm currently reworking the website, because the [old design] (http://kidsday-karlsruhe.de/) is quite antique and not from me.
-This is the second design including the coporate design of [Nehemia e.V.] (http://nehemia-initiative.de/)
+This is the second design including the corporate design of [Nehemia e.V.] (http://nehemia-initiative.de/)
 
 # Credits:
 - Design:
