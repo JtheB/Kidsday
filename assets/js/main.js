@@ -160,4 +160,13 @@
 })(jQuery);
 //Poptrox
 var foo = $('#gallery');
-foo.poptrox();
+var $header = $('#header');
+var $menu = $('#menu');
+
+foo.poptrox({
+	fadeSpeed: 300,
+	popupSpeed: 250,
+	popupBackgroundColor: '#77CBFA',
+    onPopupClose: function() { $header.removeClass('alt'); }, //to not have the header block the picture
+	onPopupOpen: function() { $header.addClass('alt'); }
+});

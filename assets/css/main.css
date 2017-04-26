@@ -2223,9 +2223,10 @@
 
 	.pic {
 		border-radius: 5px;
-		border: 1px solid #3d3d3d;
+		border: 0.01em solid #3d3d3d;
 		display: inline-block;
 		position: relative;
+		margin: 0 auto;
 	}
 
 	.pic img {
@@ -2310,7 +2311,7 @@
 		-webkit-transition: opacity 0.2s ease-in-out;
 		-ms-transition: opacity 0.2s ease-in-out;
 		transition: opacity 0.2s ease-in-out;
-		background-image: url("../../../../Angular/poptroxtest/css/images/close.svg");
+		background-image: url("/images/close.svg");
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: 3em;
@@ -2329,7 +2330,7 @@
 		-webkit-transition: opacity 0.2s ease-in-out;
 		-ms-transition: opacity 0.2s ease-in-out;
 		transition: opacity 0.2s ease-in-out;
-		background-image: url("../../../../Angular/poptroxtest/css/images/arrow.svg");
+		background-image: url("/images/arrow.svg");
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: 5em;
@@ -3452,6 +3453,7 @@
 	-ms-flex-wrap: wrap;
 	flex-wrap: wrap;
 	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+	margin: auto;
 }
 
 #gallery .thumb {
@@ -3467,6 +3469,7 @@
 	opacity: 1;
 	overflow: hidden;
 	position: relative;
+	margin: 0 auto;
 }
 
 #gallery .thumb:after {
