@@ -1,7 +1,3 @@
-//Poptrox
-var foo = $('#gallery');
-foo.poptrox();
-
 (function($) {
 
 	"use strict";
@@ -162,3 +158,6 @@ foo.poptrox();
 	});
 
 })(jQuery);
+//Poptrox
+var foo = $('#gallery');
+foo.poptrox();
