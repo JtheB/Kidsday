@@ -2222,11 +2222,10 @@
 /* pic */
 
 	.pic {
-		border-radius: 5px;
+		border-radius: 10px;
 		border: 0.01em solid #3d3d3d;
 		display: inline-block;
 		position: relative;
-		margin: 0 auto;
 	}
 
 	.pic img {
@@ -2234,11 +2233,11 @@
 		display: block;
 	}
 
-	.pic.left, .image.right {
+	.pic.left, .pic.right {
 		max-width: 40%;
 	}
 
-	.pic.left img, .image.right img {
+	.pic.left img, .pic.right img {
 		width: 100%;
 	}
 
@@ -2261,7 +2260,7 @@
 	}
 
 	.pic.fit img {
-		width: 100%;
+		width: 50%;
 	}
 
 	.pic.main {
