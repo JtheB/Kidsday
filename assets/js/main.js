@@ -161,7 +161,6 @@
 //Poptrox
 var foo = $('#gallery');
 var $header = $('#header');
-var $menu = $('#menu');
 
 foo.poptrox({
 	fadeSpeed: 300,
