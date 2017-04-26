@@ -4,10 +4,10 @@ This is the second design including the corporate design of [Nehemia e.V.](http:
 
 # Credits:
 - Design:
-        [Solid State by HTML5 UP] (https://html5up.net/solid-state)
-        [CCA 3.0 license] (html5up.net/license)
+        [Solid State by HTML5 UP](https://html5up.net/solid-state)
+        [CCA 3.0 license](html5up.net/license)
 - Icons:
-		[Font Awesome] (fortawesome.github.com/Font-Awesome)
+		[Font Awesome](fortawesome.github.com/Font-Awesome)
 
 ## Other:
 - [jQuery](jquery.com),
