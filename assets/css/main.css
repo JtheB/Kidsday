@@ -2223,7 +2223,7 @@
 
 	.pic {
 		border-radius: 10px;
-		border: 0.01em solid #3d3d3d;
+		/*border: 0.01em solid #3d3d3d;*/
 		display: inline-block;
 		position: relative;
 	}
