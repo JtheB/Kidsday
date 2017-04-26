@@ -2226,6 +2226,7 @@
 		/*border: 0.01em solid #3d3d3d;*/
 		display: inline-block;
 		position: relative;
+		max-height: 232px;
 	}
 
 	.pic img {
