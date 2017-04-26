@@ -2383,7 +2383,7 @@
 		-webkit-animation: spinner 1s infinite linear !important;
 		-ms-animation: spinner 1s infinite linear !important;
 		animation: spinner 1s infinite linear !important;
-		background-image: url("../../../../Angular/poptroxtest/css/images/spinner.svg");
+		background-image: "/images/spinner.svg";
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: contain;
